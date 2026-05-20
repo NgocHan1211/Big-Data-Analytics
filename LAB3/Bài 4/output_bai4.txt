@@ -1,0 +1,50 @@
+ ĐIỂM TRUNG BÌNH PHIM THEO NHÓM TUỔI 
+
+MovieID: 1040  Title: Gladiator (2000)  Age Group: 46+  Average Rating: 3.50
+MovieID: 1040  Title: Gladiator (2000)  Age Group: 18-25  Average Rating: 3.50
+MovieID: 1040  Title: Gladiator (2000)  Age Group: 36-45  Average Rating: 3.86
+MovieID: 1040  Title: Gladiator (2000)  Age Group: 26-35  Average Rating: 3.43
+MovieID: 1015  Title: Sunset Boulevard (1950)  Age Group: 36-45  Average Rating: 4.50
+MovieID: 1015  Title: Sunset Boulevard (1950)  Age Group: 46+  Average Rating: 4.50
+MovieID: 1015  Title: Sunset Boulevard (1950)  Age Group: 18-25  Average Rating: 4.50
+MovieID: 1015  Title: Sunset Boulevard (1950)  Age Group: 26-35  Average Rating: 4.00
+MovieID: 1020  Title: E.T. the Extra-Terrestrial (1982)  Age Group: 26-35  Average Rating: 3.58
+MovieID: 1020  Title: E.T. the Extra-Terrestrial (1982)  Age Group: 36-45  Average Rating: 3.81
+MovieID: 1020  Title: E.T. the Extra-Terrestrial (1982)  Age Group: 46+  Average Rating: 3.50
+MovieID: 1020  Title: E.T. the Extra-Terrestrial (1982)  Age Group: 18-25  Average Rating: 3.50
+MovieID: 1047  Title: The Social Network (2010)  Age Group: 36-45  Average Rating: 3.50
+MovieID: 1047  Title: The Social Network (2010)  Age Group: 18-25  Average Rating: 4.00
+MovieID: 1047  Title: The Social Network (2010)  Age Group: 26-35  Average Rating: 4.00
+MovieID: 1047  Title: The Social Network (2010)  Age Group: 46+  Average Rating: 4.00
+MovieID: 1050  Title: Mad Max: Fury Road (2015)  Age Group: 36-45  Average Rating: 3.64
+MovieID: 1050  Title: Mad Max: Fury Road (2015)  Age Group: 26-35  Average Rating: 3.40
+MovieID: 1050  Title: Mad Max: Fury Road (2015)  Age Group: 18-25  Average Rating: 3.00
+MovieID: 1025  Title: The Terminator (1984)  Age Group: 18-25  Average Rating: 4.50
+MovieID: 1025  Title: The Terminator (1984)  Age Group: 26-35  Average Rating: 4.10
+MovieID: 1025  Title: The Terminator (1984)  Age Group: 46+  Average Rating: 4.00
+MovieID: 1025  Title: The Terminator (1984)  Age Group: 36-45  Average Rating: 4.00
+MovieID: 1028  Title: Fight Club (1999)  Age Group: 46+  Average Rating: 3.50
+MovieID: 1028  Title: Fight Club (1999)  Age Group: 26-35  Average Rating: 3.50
+MovieID: 1028  Title: Fight Club (1999)  Age Group: 36-45  Average Rating: 3.50
+MovieID: 1012  Title: Psycho (1960)  Age Group: 36-45  Average Rating: 3.50
+MovieID: 1012  Title: Psycho (1960)  Age Group: 26-35  Average Rating: 4.50
+MovieID: 1013  Title: The Godfather: Part II (1974)  Age Group: 36-45  Average Rating: 4.25
+MovieID: 1013  Title: The Godfather: Part II (1974)  Age Group: 26-35  Average Rating: 3.71
+MovieID: 1013  Title: The Godfather: Part II (1974)  Age Group: 18-25  Average Rating: 4.00
+MovieID: 1037  Title: The Lord of the Rings: The Fellowship of the Ring (2001)  Age Group: 36-45  Average Rating: 3.72
+MovieID: 1037  Title: The Lord of the Rings: The Fellowship of the Ring (2001)  Age Group: 46+  Average Rating: 4.17
+MovieID: 1037  Title: The Lord of the Rings: The Fellowship of the Ring (2001)  Age Group: 18-25  Average Rating: 4.00
+MovieID: 1037  Title: The Lord of the Rings: The Fellowship of the Ring (2001)  Age Group: 26-35  Average Rating: 4.00
+MovieID: 1039  Title: The Lord of the Rings: The Return of the King (2003)  Age Group: 26-35  Average Rating: 3.83
+MovieID: 1039  Title: The Lord of the Rings: The Return of the King (2003)  Age Group: 46+  Average Rating: 3.50
+MovieID: 1039  Title: The Lord of the Rings: The Return of the King (2003)  Age Group: 36-45  Average Rating: 3.86
+MovieID: 1030  Title: The Silence of the Lambs (1991)  Age Group: 46+  Average Rating: 3.33
+MovieID: 1030  Title: The Silence of the Lambs (1991)  Age Group: 26-35  Average Rating: 3.00
+MovieID: 1030  Title: The Silence of the Lambs (1991)  Age Group: 36-45  Average Rating: 3.00
+MovieID: 1010  Title: Lawrence of Arabia (1962)  Age Group: 46+  Average Rating: 3.50
+MovieID: 1010  Title: Lawrence of Arabia (1962)  Age Group: 36-45  Average Rating: 3.35
+MovieID: 1010  Title: Lawrence of Arabia (1962)  Age Group: 26-35  Average Rating: 3.60
+MovieID: 1043  Title: No Country for Old Men (2007)  Age Group: 46+  Average Rating: 4.20
+MovieID: 1043  Title: No Country for Old Men (2007)  Age Group: 18-25  Average Rating: 3.50
+MovieID: 1043  Title: No Country for Old Men (2007)  Age Group: 36-45  Average Rating: 3.70
+MovieID: 1043  Title: No Country for Old Men (2007)  Age Group: 26-35  Average Rating: 3.86

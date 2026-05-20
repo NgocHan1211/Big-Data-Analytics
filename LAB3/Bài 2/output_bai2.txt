@@ -1,0 +1,14 @@
+ ĐIỂM TRUNG BÌNH THEO THỂ LOẠI 
+
+Genre: Film-Noir Average Rating: 4.36
+Genre: Horror Average Rating: 4.00
+Genre: Mystery Average Rating: 4.00
+Genre: Fantasy Average Rating: 3.86
+Genre: Crime Average Rating: 3.81
+Genre: Drama Average Rating: 3.76
+Genre: Sci-Fi Average Rating: 3.73
+Genre: Action Average Rating: 3.71
+Genre: Thriller Average Rating: 3.70
+Genre: Family Average Rating: 3.67
+Genre: Adventure Average Rating: 3.63
+Genre: Biography Average Rating: 3.56

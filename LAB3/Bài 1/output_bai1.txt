@@ -1,0 +1,23 @@
+ĐIỂM TRUNG BÌNH VÀ SỐ LƯỢT ĐÁNH GIÁ
+
+MovieID: 1015  Title: Sunset Boulevard (1950)  Average Rating: 4.36  Total Ratings: 7
+MovieID: 1037  Title: The Lord of the Rings: The Fellowship of the Ring (2001)  Average Rating: 3.89  Total Ratings: 18
+MovieID: 1043  Title: No Country for Old Men (2007)  Average Rating: 3.89  Total Ratings: 18
+MovieID: 1050  Title: Mad Max: Fury Road (2015)  Average Rating: 3.47  Total Ratings: 18
+MovieID: 1028  Title: Fight Club (1999)  Average Rating: 3.50  Total Ratings: 7
+MovieID: 1010  Title: Lawrence of Arabia (1962)  Average Rating: 3.44  Total Ratings: 18
+MovieID: 1013  Title: The Godfather: Part II (1974)  Average Rating: 4.00  Total Ratings: 17
+MovieID: 1047  Title: The Social Network (2010)  Average Rating: 3.86  Total Ratings: 7
+MovieID: 1025  Title: The Terminator (1984)  Average Rating: 4.06  Total Ratings: 18
+MovieID: 1030  Title: The Silence of the Lambs (1991)  Average Rating: 3.14  Total Ratings: 7
+MovieID: 1040  Title: Gladiator (2000)  Average Rating: 3.61  Total Ratings: 18
+MovieID: 1012  Title: Psycho (1960)  Average Rating: 4.00  Total Ratings: 2
+MovieID: 1020  Title: E.T. the Extra-Terrestrial (1982)  Average Rating: 3.67  Total Ratings: 18
+MovieID: 1039  Title: The Lord of the Rings: The Return of the King (2003)  Average Rating: 3.82  Total Ratings: 11
+
+PHIM CÓ ĐIỂM TRUNG BÌNH CAO NHẤT
+
+MovieID: 1015
+Title: Sunset Boulevard (1950)
+Average Rating: 4.36
+Total Ratings: 7
