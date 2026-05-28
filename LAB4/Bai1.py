@@ -55,7 +55,7 @@ products.show(5, truncate=False)
 print("===== REVIEWS =====")
 reviews.show(5, truncate=False)
 
-# print schema để xem kiểu dữ liệu của các cột
+# print schema 
 orders.printSchema()
 customers.printSchema()
 order_items.printSchema()
