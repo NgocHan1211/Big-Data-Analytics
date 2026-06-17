@@ -188,7 +188,7 @@ node_capture.py  →[TCP:7001]→  node_detect.py  →[TCP:7002]→  node_writer
 | Yêu cầu | JVM + Zookeeper + Broker | Không cần cài thêm |
 | Tài nguyên | ~2GB RAM | Nhẹ, chạy trên Colab |
 | Persistence | Có (lưu message) | Không (in-memory) |
-| Phù hợp | Production scale | Demo & học thuật |
+| Phù hợp | Production scale | Demo |
 
 > Kiến trúc **producer → message passing → consumer** giữ nguyên đúng concept của Kafka Streaming, chỉ thay transport layer.
 
