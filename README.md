@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://www.uit.edu.vn/media/Logo_UIT_Web_6d18902c3d.png" width="130"/>
-  <h2>Trường Đại học Công nghệ Thông tin – ĐHQG TP.HCM</h2>
+  <img src="https://www.uit.edu.vn/media/Logo_UIT_Web_6d18902c3d.png" width="160"/>
 </div>
+
 # 📊 Big Data Labs – Báo Cáo Thực Hành
 
 **Sinh viên:** Trần Ngọc Hân – `23520437`  
